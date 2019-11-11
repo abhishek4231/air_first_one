@@ -1,0 +1,370 @@
+@media only screen and (max-width: 767px) {
+
+	/*main_banner_wrapper*/
+	.main_page .banner_desc{width: 100%;}
+	.main_page .banner_desc h2{font-size:34px;line-height: 42px;}
+	.main_page .banner_desc h3{font-size:18px;line-height: 30px;}
+	.main_page .main_banner_wrapper{min-height: 250px;}
+	/*main_banner_wrapper*/
+    
+    /*search_wrapper*/
+    .main_page .search_wrapper {padding: 30px 0px;}
+    /*search_wrapper*/
+
+
+	/*radon_level_wrapper*/
+	.counter_section .randon_title {font-size: 20px;}
+	.main_page .radon_level_wrapper svg{height: auto;max-width: 200px;margin-bottom: 40px;}
+	.radon_level_wrapper-row{text-align: center;}
+	.main_page .radon_level_wrapper h2{font-size: 22px;text-align: center;}
+	.main_page .radon_level_wrapper img{float: none;}
+	.main_page .radon_level_wrapper ul li{font-size: 17px;}
+	.main_page .legend_col1{    max-width: 37px;}
+	.main_page .legend_container{    margin: 10px 0;}
+	.main_page .legend_col3{float: right;width: 100%;text-align: right;}
+	.main_page section.radon_level_wrapper{padding: 45px 0px;}
+	.main_page .radon_level_wrapper h3{    line-height: 24px;font-size: 18px;}
+	.main_page .radon_level_wrapper .legend_col2{     margin-right: 0;max-width: calc(100% - 37px);    height: auto;}
+	.main_page .radon_level_wrapper .legend_col1,.main_page .radon_level_wrapper .legend_col3{height: auto;}
+	.main_page .radon_level_wrapper-row1 {text-align: center;}
+	.main_page .radon_level_wrapper h3{    margin-bottom: 8px;}
+	.main_page .legend {margin-top: 10px;}
+	.main_page .radon_level_wrapper ul li{font-size: 16px;}
+	.main_page .quote-container{margin-top: 30px;}
+	/*radon_level_wrapper*/
+
+	/*counter_section*/
+	.main_page .estimated_radon_issue{padding: 35px 0px 35px 0px;}
+	.main_page .counter_section .randon_title{    margin-bottom: 0px;}
+	.main_page .counter_container i.fa-question-circle-o{color: #fff;}
+	.main_page #tab-1 h3,.main_page #tab-2 h3{color: #fff;    font-size: 18px;}
+	.main_page .counter_section .randon_title{    font-size: 18px;}
+	.main_page .tab-container{    margin-top: 18px;}
+	.main_page .estimated_radon_issue{background-position:bottom right;background-size: contain;}
+	.main_page .tab-content-row div:nth-child(1),.main_page .tab-content-row div:nth-child(2){padding: 0;}
+	.main_page .count-title{font-size: 22px;margin-left: 27px;color: #fff;}
+	.main_page .count-text {font-size: 15px;    margin-top: 5px;margin-left: 27px;color: #fff;}
+	.main_page .counter-row.counter-row1 {margin-bottom: 30px;}
+	.main_page .row.tab-content-row.counter-row-main {padding: 0px 10px;}
+	.main_page .counter_container{border: 0}
+	.main_page #tab-2 .tab-content-row div:nth-child(2),.main_page #tab-2 .tab-content-row div:nth-child(2){padding: 0;}
+	.main_page .counter-row-perc-main{padding: 0px 10px;}
+	.main_page .counter-row-perc-1{margin-bottom: 30px;}
+	.main_page .counter-row-perc-2{}
+	.main_page .counter-row-perc{}
+	.main_page .count-text{width: 74%;margin-top: -7px;}
+	.main_page .count-title{line-height: 40px;}
+	.main_page .counter-row.counter-row1,.main_page .counter-row.counter-row2 {width: 50%;}
+	.main_page .counter-row-perc-1,.main_page .counter-row-perc-2{width: 50%;}
+	.main_page .tab-content{padding-top: 25px;}
+	/*counter_section*/
+
+
+	/*findlocation css*/
+	.main_page .findlocationform .input-group{width: 64%;margin: 0px auto;float: none;}
+	.main_page .findloc-call{margin-left: 0px;float: none;margin-top: 7px;}
+	.main_page .findlocation{text-align: center;}
+	.main_page .findloc-call a{font-size: 20px;}
+	.main_page .findlocation{    padding: 30px 0px;}
+	.main_page .findlocation h3{font-size: 18px;}
+	/*findlocation css*/
+
+
+	/*randon_accordian_section*/
+	.main_page .randon_accordian_section{padding: 50px 0px;}
+	.main_page .randon_accordian_section .panel-group .panel .panel-body{padding-top:0px;padding-left: 15px;padding-right: 15px;}
+	.main_page .randon_accordian_section #accordion h2.resp-tab-active{border-bottom:1px solid #c1c1c1  !important;}
+	.main_page .resp-tab-content.hor_1 .form-group{    max-width: 202px;}
+	.main_page .resp-tab-content{padding: 30px 0px 0px 0px;}
+	.main_page .randon_accordian_section .panel-group .panel-heading{padding-left: 15px;padding-right: 15px;}
+	.main_page .panel-title>a, .panel-title>a:active{font-size: 17px;}
+	.main_page .randon_accordian_section .panel-group .panel .center-of-diseasebody h5{margin-top: 0px;margin-bottom: 15px;}
+	.main_page h2.resp-accordion{    border-top: 1px solid #c1c1c1;}
+
+	.main_page div#chart_new_cancer_mortality{height: 82px;}
+	.main_page #myCarousel,.main_page #myCarousel1,.main_page #myCarousel2,.main_page #myCarousel3,.main_page #myCarousel4,.main_page #myCarousel5{width:100%;padding-left:0px;margin-bottom: 100px;}
+	.main_page .aqi_pie_chart_legend{    height: 150px;}
+	.carousel-control.left,.carousel-control.right{}
+	/*.carousel-control.right{display: inline-block;margin:0px auto;}*/
+	.main_page .aqi_pie_chart{max-width: 400px;float: none;margin: 0px auto;}
+	.main_page .full_calendar{width: 100%;}
+    .main_page .center-of-diseasebody-row .output{margin-top: 25px;}
+	/*randon_accordian_section*/
+}
+
+
+
+@media only screen and (max-width: 480px) {
+/*main_banner_wrapper*/
+.main_page .banner_desc{width: 100%;}
+.main_page .banner_desc h2{font-size:27px;line-height: 34px;}
+.main_page .banner_desc h3{font-size:15px;line-height: 20px;}
+.main_page .main_banner_wrapper{min-height: 250px;}
+/*main_banner_wrapper*/
+
+/*search_wrapper*/
+.main_page .search_wrapper input[type="search"]{    width: 89%}
+/*search_wrapper*/
+
+/*radon_level_wrapper*/
+.main_page .radon_level_wrapper ul li {font-size: 16px;}
+.main_page .radon_level_wrapper .legend_col2{margin-right: 0px;max-width: calc(100% - 37px);    height: auto;}
+.main_page .legend_container{margin: 32px 0;}
+.main_page .legend{margin-bottom: 0px;}
+.main_page .legend_col3{    text-align: right;width: 100%;margin-top:7px;}
+.main_page .radon_level_wrapper .legend_col1,.main_page .radon_level_wrapper .legend_col3{height: auto;}
+.main_page .quote-container{margin-top: 25px;}
+/*radon_level_wrapper*/
+
+/*counter_section*/
+.main_page .counter_container i.fa-question-circle-o{color: #fff;}
+.main_page #tab-1 h3,.main_page #tab-2 h3{color: #fff;    font-size: 18px;}
+.main_page .counter_section .randon_title{    font-size: 18px;}
+.main_page .tab-container{    margin-top: 18px;}
+.main_page .estimated_radon_issue{background-position:bottom right;}
+.main_page .tab-content-row div:nth-child(1),.main_page .tab-content-row div:nth-child(2){padding: 0;}
+.main_page .count-title{font-size: 22px;margin-left: 27px;color: #fff;}
+.main_page .count-text {font-size: 15px;    margin-top: 5px;margin-left: 27px;color: #fff;}
+.main_page .counter-row.counter-row1 {margin-bottom: 30px;}
+.main_page .row.tab-content-row.counter-row-main {padding: 0px 10px;}
+.main_page .counter_container{border: 0}
+.main_page #tab-2 .tab-content-row div:nth-child(2),.main_page #tab-2 .tab-content-row div:nth-child(2){padding: 0;}
+.main_page .counter-row-perc-main{padding: 0px 10px;}
+.main_page .counter-row-perc-1{margin-bottom: 30px;}
+.main_page .counter-row-perc-2{}
+.main_page .counter-row-perc{}
+.main_page .count-text{width: 62%;margin-top: -7px;}
+.main_page .count-title{line-height: 40px;}
+.main_page .counter-row.counter-row1,.main_page .counter-row.counter-row2 {width: 100%;}
+.main_page .counter-row-perc-1,.main_page .counter-row-perc-2{width: 100%;}
+/*counter_section*/
+}
+
+
+
+
+@media only screen and (max-width: 320px) {
+/*main_banner_wrapper*/
+.main_page .banner_desc h2{font-size: 25px;line-height: 32px;}
+.main_page .banner_desc h3{font-size: 16px;line-height: 22px;}
+.main_page .main_banner_wrapper{min-height: 250px;}
+/*main_banner_wrapper*/
+
+
+/*search_wrapper*/
+.main_page .search_wrapper{padding: 30px 0px;}
+.main_page .search_wrapper button{    padding: 9px 14px 8px;}
+.main_page .search_wrapper input[type="search"]{width: 83%;    height: 35px;}
+/*search_wrapper*/
+
+
+/*radon_level_wrapper*/
+.main_page .radon_level_wrapper h2{font-size: 20px;}	
+.main_page .radon_level_wrapper svg{max-width: 160px;}
+.main_page .radon_level_wrapper h3{    font-size: 18px;    line-height: 21px;}
+.main_page .radon_level_wrapper ul li{font-size: 13px;}
+.main_page .radon_level_wrapper .legend_col2{max-width: calc(100% - 37px);margin-right: 0px;    height: auto;}
+.main_page .legend_col3{    text-align: right;margin-top: 5px;width: 100%;}
+.main_page .legend_container{margin: 35px 0;}
+.main_page .legend_container:first-child{margin-top:20px;}
+.main_page .legend{margin-bottom: 35px;}
+.main_page section.radon_level_wrapper{padding: 35px 0px;}
+.main_page .radon_level_wrapper .legend_col1,.main_page .radon_level_wrapper .legend_col3{height: auto;}
+.main_page .quote-container {margin-top: 20px;}
+/*radon_level_wrapper*/
+
+/*counter_section*/
+.main_page .counter_container i.fa-question-circle-o{color: #fff;}
+.main_page #tab-1 h3,.main_page #tab-2 h3{color: #fff;    font-size: 17px;}
+.main_page .counter_section .randon_title{    font-size: 18px;}
+.main_page .tab-container{    margin-top: 18px;}
+.main_page .estimated_radon_issue{background-position:bottom right;background-size: cover;}
+.main_page .tab-content-row div:nth-child(1),.main_page .tab-content-row div:nth-child(2){padding: 0;}
+.main_page .count-title{font-size: 22px;margin-left: 27px;color: #fff;line-height: 40px;}
+.main_page .count-text {font-size: 15px;    margin-top: -7px;margin-left: 27px;color: #fff;    width:40%;}
+.main_page #tab-2 .count-text{width:51%;}
+.main_page .counter-row.counter-row1 {margin-bottom: 30px;}
+.main_page .row.tab-content-row.counter-row-main {padding: 0px 10px;}
+.main_page .counter_container{border: 0}
+.main_page #tab-2 .tab-content-row div:nth-child(2),.main_page #tab-2 .tab-content-row div:nth-child(2){padding: 0;}
+.main_page .counter-row-perc-main{padding: 0px 10px;}
+.main_page .counter-row-perc-1{margin-bottom: 30px;}
+.main_page .counter-row-perc-2{}
+.main_page .counter-row-perc{}
+.main_page .counter-row.counter-row1,.main_page .counter-row.counter-row2 {width: 100%;}
+.main_page .counter-row-perc-1,.main_page .counter-row-perc-2{width: 100%;}
+/*counter_section*/
+
+/*findlocation css*/
+.main_page .findlocation{    padding: 30px 0px;}
+.main_page .findlocation h3{font-size: 17px;}
+.main_page .findlocationform .input-group input{width: 85%;}
+.main_page .findlocationform .input-group{    width: 92%;}
+.main_page .findlocationform button{width: 15%;}
+/*findlocation css*/
+
+
+/*randon_accordian_section*/
+.main_page .level_status {    width: 20px;height: 20px;}
+.main_page .breathing_level{font-size: 15px;}
+.main_page .breathing_icon{margin-right: 0;float: right;}
+.main_page .resp-tab-content.hor_1 > span{line-height: 36px;}
+.main_page .resp-tab-content.hor_1 .form-group{    max-width: 100%;margin-top: 18px;}
+/*randon_accordian_section*/
+}
+
+
+
+
+@media only screen and (min-width: 321px) and (max-width: 479px) {
+/*search_wrapper*/
+.main_page .search_wrapper{padding: 30px 0px;}
+.main_page .search_wrapper button{    padding: 9px 14px 9px;}
+.main_page .search_wrapper input[type="search"]{width: 83%;    height: 36px;}
+/*search_wrapper*/
+
+/*radon_level_wrapper*/
+.main_page .radon_level_wrapper .legend_col1,.main_page .legend_col3{height: auto;}
+.main_page .radon_level_wrapper .legend_col2{max-width: calc(100% - 37px);margin-right: 0px;    height: auto;}
+/*radon_level_wrapper*/
+
+/*counter_section*/
+.main_page .estimated_radon_issue{background-size: contain;}
+.main_page .count-text{width: 60%;}
+/*counter_section*/
+
+/*findlocation css*/
+.main_page .findlocationform .input-group input{width: 82%;}
+.main_page .findlocationform button{width: 18%;}
+.main_page .findlocationform .input-group{    width: 95%;}
+/*findlocation css*/
+}
+
+
+
+
+@media only screen and (min-width: 321px) and (max-width: 329px) {
+.main_page .count-text{    width: 57%;}
+.main_page .banner_desc h2{    font-size: 24px;line-height: 26px;}
+.main_page .banner_desc h3{    font-size: 16px;line-height: 22px;}
+}
+
+
+
+
+@media only screen and (min-width: 481px) and (max-width: 558px) {
+.main_page .count-text{    width: 72%;}
+.main_page .counter-row.counter-row1,.main_page .counter-row.counter-row2 {width: 100%;}
+.main_page .counter-row-perc-1,.main_page .counter-row-perc-2{width: 100%;}
+
+.main_page .search_wrapper input[type="search"]{width: 89%;}
+}
+
+
+
+
+
+@media only screen and (min-width: 490px) and (max-width: 580px){
+/*radon_level_wrapper*/
+.main_page .legend_col3{margin-top: 15px;}
+/*radon_level_wrapper*/
+}
+
+
+
+
+@media only screen and (min-width: 559px) and (max-width: 768px){
+/*counter_section*/
+.main_page #tab-1 .count-text{width: 54%;}
+.main_page #tab-2 .count-text{width: 54%;}
+/*counter_section*/
+
+.main_page .search_wrapper input[type="search"]{width: 89%;}
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+/*main_banner_wrapper*/
+.main_page .main_banner_wrapper{min-height: 280px;}
+.main_page .banner_desc{width: 100%;}
+
+.main_page .banner_desc h2{font-size:34px;line-height: 42px;}
+.main_page .banner_desc h3{font-size:18px;line-height: 30px;}
+/*main_banner_wrapper*/
+
+
+/*search_wrapper*/
+.main_page .search_wrapper {padding: 30px 0px;}
+/*search_wrapper*/
+
+/*radon_level_wrapper*/
+.main_page .radon_level_wrapper h2{text-align: center;font-size: 26px;}	
+.main_page .radon_level_wrapper h2 img{float: none;}
+.main_page .radon_level_wrapper h3 {font-size: 17px;}
+.main_page .radon_level_wrapper ul li{font-size: 16px;}
+.main_page .radon_level_wrapper .legend_col2{max-width: calc(100% - 37px);margin-right: 0px;    height: auto;}
+.main_page .legend_col3{    text-align: right;width: 100%;}
+.main_page .radon_level_wrapper-row {text-align: center;}
+.main_page .radon_level_wrapper svg{max-width: 242px;}
+.main_page .legend_container{margin: 10px 0;}
+.main_page .legend_col3{margin-top: 0px;}
+.main_page .radon_level_wrapper h3{margin-bottom: 0px;}
+.main_page .legend {margin-top: 10px;}
+.main_page .radon_level_wrapper ul li{font-size: 16px;}
+.main_page .radon_level_wrapper h2{margin-bottom: 35px;}
+.main_page .quote-container{margin-top: 25px;}
+
+.main_page div#chart_new_cancer_mortality{height: 82px;}
+.main_page #myCarousel,.main_page #myCarousel1,.main_page #myCarousel2,.main_page #myCarousel3,.main_page #myCarousel4,.main_page #myCarousel5{width:100%;padding-left:0px;margin-bottom: 100px;}
+.main_page .aqi_pie_chart_legend{    height: 150px;}
+.carousel-control.left,.carousel-control.right{}
+.main_page .aqi_pie_chart{max-width: 400px;float: none;margin: 0px auto;}
+.main_page .full_calendar{width: 100%;}
+.main_page .center-of-diseasebody-row .output{margin-top: 25px;}
+/*radon_level_wrapper*/
+
+/*counter_section*/
+.main_page .estimated_radon_issue{padding: 35px 0px 35px 0px;}
+.main_page #tab-1 .count-text{width: 47%;font-size: 17px;}
+.main_page #tab-2 .count-text{width: 55%;font-size: 17px;}
+/*counter_section*/
+
+/*findlocation css*/
+.main_page .findlocationform .input-group{width: 46%;}
+/*findlocation css*/
+}
+
+
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1280px){
+/*main_banner_wrapper*/	
+.main_page .banner_desc{width: 100%;}
+.main_page .banner_desc h2{font-size:34px;line-height: 42px;}
+.main_page .banner_desc h3{font-size:18px;line-height: 30px;}	
+/*main_banner_wrapper*/
+
+/*search_wrapper*/
+.main_page .search_wrapper {padding: 30px 0px;}
+/*search_wrapper*/
+
+
+/*radon_level_wrapper*/
+.main_page .radon_level_wrapper .legend_col2{max-width: calc(100% - 37px);margin-right: 0px;    height: auto;}
+.main_page .radon_level_wrapper .legend_col1,.main_page .radon_level_wrapper .legend_col3{height: auto;}
+.main_page .legend_col3{    text-align: right;width: 100%;}
+.main_page .legend_container{margin: 15px 0;}
+.main_page .radon_level_wrapper h2{text-align: center;font-size: 26px;}	
+.main_page .radon_level_wrapper h2 img{float: none;}
+.main_page .radon_level_wrapper h3{margin-bottom: 0px;}
+.main_page .legend {margin-top: 10px;}
+.main_page .radon_level_wrapper-row {text-align: center;}
+.main_page .radon_level_wrapper ul li{font-size: 16px;}
+.main_page .quote-container{    margin-top: 40px;}
+/*radon_level_wrapper*/
+
+/*counter_section*/
+.main_page .estimated_radon_issue{padding: 35px 0px 35px 0px;}
+/*counter_section*/
+}
